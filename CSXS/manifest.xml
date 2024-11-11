@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ExtensionManifest
 	Version="5.0"
-	ExtensionBundleId="com.extension.apptek.dubbing"
+	ExtensionBundleId="com.extension.pixsee.agent"
 	ExtensionBundleVersion="1.0.0"
-	ExtensionBundleName="Apptek Dubbing Studio"
+	ExtensionBundleName="Pixsee Agent"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
 	<ExtensionList>
-		<Extension Id="com.extension.apptek.dubbing" Version="1.0" />
+		<Extension Id="com.extension.pixsee.agent" Version="1.0" />
 	</ExtensionList>
 
 	<ExecutionEnvironment>
@@ -26,7 +26,7 @@
 </ExecutionEnvironment>
 
 	<DispatchInfoList>
-		<Extension Id="com.extension.apptek.dubbing">
+		<Extension Id="com.extension.pixsee.agent">
 			<DispatchInfo>
 
 			<Resources>
@@ -47,7 +47,7 @@
 			<UI>
 
 				<Type>Panel</Type>
-				<Menu>Apptek Dubbing Studio</Menu>
+				<Menu>Pixsee Agent</Menu>
 
 				<Geometry>
 					<Size>

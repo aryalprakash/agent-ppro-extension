@@ -1,8 +1,8 @@
 **APPTEK DUBBING STUDIO ADOBE PREMIERE EXTENSION**
 
-Main URL: https://apptek-dubbing-studio.vercel.app/
+Main URL: https://pixsee-agent-ui.staging.identv.com/
 
-Download the [extension zip file](https://github.com/aryalprakash/dubbing-ppro-extension/raw/refs/heads/main/Apptek%20Dubbing%20Ppro.zip), extract and copy to Extension Folder on your device.
+Download the [extension zip file](https://github.com/aryalprakash/agent-ppro-extension/raw/refs/heads/main/Pixsee%20Agent%20Ppro.zip), extract and copy to Extension Folder on your device.
 
 ### Extension Folders
 
@@ -37,9 +37,7 @@ On MacOS, type the following into Terminal, then relaunch Finder (either via
 rebooting, or from the Force Quit dialog):
 
 ```html
-defaults write /Users/<username
-  >/Library/Preferences/com.adobe.CSXS.11.plist PlayerDebugMode 1</username
->
+defaults write com.adobe.CSXS.11.plist PlayerDebugMode 1
 ```
 
 On Windows, make the following registry entry (a new Key, of type String):

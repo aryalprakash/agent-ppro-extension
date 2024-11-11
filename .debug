@@ -2,7 +2,7 @@
 <ExtensionList>
     <Extension Id="com.extension.apptek.dubbing">
         <HostList>
-            <Host Name="PPRO" Port="7078"/>
+            <Host Name="PPRO" Port="7080"/>
             <Host Name="AEFT" Port="8077"/>
         </HostList>
     </Extension>
